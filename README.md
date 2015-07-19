@@ -2,7 +2,7 @@
 This repo contains all of the class materials for Creating Immersive Worlds, including course materials, sample projects and templates.
 
 ## Getting Started
-If you'd like to get a headstart on the course, here's some tasks:
+If you'd like to get a headstart on the course, here are some tasks, may as well start the downloads now - some of them are BIG!
 
 ### Stuff to Download
 1. Download and Install **Unity3D** (http://www.unity3d.com/download)
