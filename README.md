@@ -5,10 +5,10 @@ This repo contains all of the class materials for Creating Immersive Worlds, inc
 If you'd like to get a headstart on the course, here's some tasks:
 
 ### Stuff to Download
-1. Download and Install *Unity3D* (http://www.unity3d.com/download) and 
-2. Download and Install *Blender* (https://www.blender.org/)
-3. Download and Install *Git* (https://git-scm.com/) on your computer
-4. Download and Install *Audacity* (http://audacityteam.org/download/) 
+1. Download and Install **Unity3D** (http://www.unity3d.com/download) and 
+2. Download and Install **Blender** (https://www.blender.org/)
+3. Download and Install **Git** (https://git-scm.com/) on your computer
+4. Download and Install **Audacity** (http://audacityteam.org/download/) 
 
 ### Stuff to Do 
 I've listed a few *totally optional* things to do if you'd like to play around with some of the tools we'll be using in class. As a sign of solidarity, I have personally gone through these myself and timed how long it took!
