@@ -3,6 +3,12 @@
 1. Introduction to the Course & Our Goals
 2. What is Immersion? 
 3. Understanding Our Toolset
+	| Purpose	| Tool		|
+	| ------------- | ------------- |
+	| Collaboration and Managing Our Wor | GIT and Github  |
+	| Creating our World | Unity3D, Blender, Photoshop |
+	| Adding Interactivity | Unity3D, C# |
+	| Creating Immersion | Oculus DK2, Audacity |
 
 #Assignments for Class Two
 * Install Unity3D, Blender, Gimp and Audacity
