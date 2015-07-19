@@ -7,7 +7,7 @@ If you'd like to get a headstart on the course, here are some tasks, may as well
 ### Stuff to Download
 1. Download and Install **Unity3D** (http://www.unity3d.com/download)
 2. Download and Install **Blender** (https://www.blender.org/)
-3. Download and Install **Git** (https://git-scm.com/) on your computer
+3. Download and Install **Git** (https://git-scm.com/)
 4. Download and Install **Audacity** (http://audacityteam.org/download/) 
 
 ### Stuff to Do 
