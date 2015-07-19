@@ -1,7 +1,9 @@
 #Class One
 ##Learning Outcomes
 1. Introduction to the Course & Our Goals
+
 2. What is Immersion? 
+
 3. Understanding Our Toolset
 
 	| Purpose	| Tool		|
